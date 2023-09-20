@@ -1,0 +1,51 @@
+.topo {
+    display: flex;
+    justify-content:space-between ;
+align-items: center;
+text-align: center;
+background-color: dimgrey;
+}
+
+.imgs {
+
+    background-color: dimgray;
+    margin: 0%;
+}
+.robo{
+    height:500px;
+}
+.robos {
+    display: flex;
+    gap: 250px;
+    background-color: dimgrey;
+}
+.um{
+    height: 600px;
+}
+.dois{
+    height: 310px;
+}
+.tres{
+    height: 310px;
+}
+.quatro{
+    height: 310px;
+}
+.cinco{
+    height: 310px;
+}
+.futuro{
+    background-color: dimgrey;
+    text-align: center;
+    margin: 0%;
+}
+h2{
+   text-align: center;
+  justify-content: space-around;
+}
+h1{
+    margin: 0%;
+}
+p {
+    margin: 0%;
+}
